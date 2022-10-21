@@ -3,14 +3,13 @@
 ## [ Meu Portfólio ](https://www.linkedin.com/in/wagnercarvalhobrenner/)
 
 <!-- informações pessoais -->
-<div display="flex">
+
 <div align="center">
   <a href="https://github.com/wagnerbrenner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerbrenner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbrenner&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbrenner&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  ![CodeCodingGIF](https://user-images.githubusercontent.com/78248942/197217730-54ffd44e-9edc-4293-80ad-b7062cdc8dc9.gif)
-  </div>
+  
   
   <div style="display: inline_block"><br>
   <img align="center" alt="art-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
