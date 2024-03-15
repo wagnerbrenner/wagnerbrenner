@@ -5,11 +5,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wagnerbrenner&bg_color=0d1117&color=00ABF0&line=00ABF0&point=5F5F5F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wagner.brenner&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wagnerbrenner&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wagnerbrenner&show_icons=true&count_private=true&hide_border=true&title_color=00ABF0&icon_color=00ABF0&text_color=c9d1d9&bg_color=0d1117" alt="Wagner Brenner Github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wagnerbrenner&show_icons=true&count_private=true&hide_border=false&title_color=00ABF0&icon_color=00ABF0&text_color=c9d1d9&bg_color=0d1117" alt="Wagner Brenner Github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbrenner&layout=compact&hide_border=true&title_color=00ABF0&text_color=00ABF0&bg_color=0d1117" />
 </div>
 
