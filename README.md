@@ -6,10 +6,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wagnerbrenner&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=wagnerbrenner&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=wagnerbrenner&locale=pt-br&mode=weekly&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" height="244" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=wagnerbrenner&theme=dracula&column=3&no-frame=false&no-bg=false&row=3" height="244" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wagnerbrenner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wagnerbrenner&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=wagnerbrenner&theme=dracula&no-frame=false&no-bg=false&row=1" height="220" alt="trophy graph"  />
 </div>
 
 
