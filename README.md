@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ABF0&size=44&center=true&vCenter=true&width=1450&lines=HELLO,+My+name+is+Wagner+Brenner;I'm+26+years+old;I'm+from+Brazil;I'm+an+undergraduate+student+studying+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wagnerbrenner&bg_color=0d1117&color=00ABF0&line=00ABF0&point=5F5F5F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bonaajr&bg_color=0d1117&color=00ABF0&line=00ABF0&point=5F5F5F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
