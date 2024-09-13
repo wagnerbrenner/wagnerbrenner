@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ABF0&size=44&center=true&vCenter=true&width=1450&lines=HELLO,+My+name+is+Wagner+Brenner;I'm+26+years+old;I'm+from+Brazil;I'm+an+undergraduate+student+studying+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bonaajr&bg_color=0d1117&color=00ABF0&line=00ABF0&point=5F5F5F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wagnerbrenner&bg_color=0d1117&color=00ABF0&line=00ABF0&point=5F5F5F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bonaajr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=bonaajr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=bonaajr&theme=dracula&no-frame=false&no-bg=false&row=1" height="220" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wagnerbrenner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wagnerbrenner&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=wagnerbrenner&theme=dracula&no-frame=false&no-bg=false&row=1" height="220" alt="trophy graph"  />
 </div>
 
 
