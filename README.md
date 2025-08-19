@@ -84,9 +84,9 @@
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wagnerbrenner&theme=dracula&no-frame=true&no-bg=true&margin-w=20&column=6&title=Followers,Stars,Commits,Repositories,PullRequest" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wagnerbrenner&theme=dracula&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=10&title=Followers,Stars,Commits,Repositories,PullRequest" />
+</p>
 
 ---
 
