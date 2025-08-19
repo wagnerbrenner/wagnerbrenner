@@ -76,9 +76,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wagnerbrenner&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://nirzak-streak-stats.vercel.app/?user=wagnerbrenner&theme=react&hide_border=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbrenner&theme=react&hide_border=true&layout=compact"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=wagnerbrenner&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://nirzak-streak-stats.vercel.app/?user=wagnerbrenner&theme=react&hide_border=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbrenner&theme=react&hide_border=true&layout=compact"/>
 </div>
 
 ---
