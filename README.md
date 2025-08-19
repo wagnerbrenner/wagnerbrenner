@@ -98,6 +98,8 @@
 ---
 
 ## 👀 Visitantes
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{wagnerbrenner}/count.svg" /></p> 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=wagnerbrenner&label=Profile%20Views&color=0&icon=2&pretty=true" />
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ABF0&height=120&section=footer"/>
