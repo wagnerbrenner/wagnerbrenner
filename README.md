@@ -76,9 +76,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wagnerbrenner&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://nirzak-streak-stats.vercel.app/?user=wagnerbrenner&theme=react&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbrenner&theme=react&hide_border=true&layout=compact"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wagnerbrenner&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://nirzak-streak-stats.vercel.app/?user=wagnerbrenner&theme=react&hide_border=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbrenner&theme=react&hide_border=true&layout=compact"/>
 </div>
 
 ---
@@ -86,6 +86,13 @@
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wagnerbrenner&theme=dracula&no-frame=true&no-bg=true&margin-w=20&column=6&title=Followers,Stars,Commits,Repositories,PullRequest" />
+</div>
+
+---
+
+## ✍️ Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
