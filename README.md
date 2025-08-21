@@ -90,16 +90,17 @@
 
 ---
 
-## ✍️ Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+## 🎮 Pac-Man
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wagnerbrenner/wagnerbrenner/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wagnerbrenner/wagnerbrenner/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wagnerbrenner/wagnerbrenner/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-## 👀 Visitantes
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=wagnerbrenner&label=Profile%20Views&color=0&icon=2&pretty=true" />
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wagnerbrenner.wagnerbrenner&"  />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ABF0&height=120&section=footer"/>
